@@ -1,0 +1,7 @@
+                           FACTURA DE COMPRA
+
+CANTIDAD                   PRODUCTO/MARCA                     SUBTOTAL                    
+
+10                   Alimento para perros, pedigree          195.0
+
+TOTAL A PAGAR                                                $195.0
